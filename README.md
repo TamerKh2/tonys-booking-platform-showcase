@@ -4,6 +4,8 @@
 
 [Live Platform](https://tonysbooking.app)
 
+![Tony’s Booking Platform](assets/banner.svg)
+
 > **Production source code is private.**  
 > This public repository is a portfolio showcase containing project documentation, architecture notes, visuals, and sanitized example code. It does **not** contain production credentials, customer data, private business logic, database secrets, or the complete production codebase.
 
