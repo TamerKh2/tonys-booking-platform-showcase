@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tony's Booking Platform</title>
+  <desc id="desc">Portfolio showcase banner for Tony's Booking Platform by Tamer Khatib</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1320" cy="150" r="240" fill="#334155" opacity="0.35"/>
+  <circle cx="250" cy="760" r="300" fill="#475569" opacity="0.18"/>
+  <rect x="120" y="110" width="1360" height="680" rx="36" fill="#111827" opacity="0.72" stroke="#475569" stroke-width="2"/>
+  <text x="170" y="235" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="6">PRODUCTION SOFTWARE PROJECT</text>
+  <text x="170" y="360" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700">Tony’s Booking Platform</text>
+  <text x="170" y="440" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="38">Live booking &amp; operations system for a real Toronto barbershop</text>
+
+  <g transform="translate(170 520)">
+    <rect width="230" height="70" rx="18" fill="#1f2937" stroke="#64748b"/>
+    <text x="115" y="45" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">OTP Login</text>
+  </g>
+  <g transform="translate(425 520)">
+    <rect width="320" height="70" rx="18" fill="#1f2937" stroke="#64748b"/>
+    <text x="160" y="45" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">Admin + Barber Panels</text>
+  </g>
+  <g transform="translate(770 520)">
+    <rect width="330" height="70" rx="18" fill="#1f2937" stroke="#64748b"/>
+    <text x="165" y="45" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">Real-Time Scheduling</text>
+  </g>
+  <g transform="translate(1125 520)">
+    <rect width="250" height="70" rx="18" fill="#1f2937" stroke="#64748b"/>
+    <text x="125" y="45" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28">Group Bookings</text>
+  </g>
+
+  <text x="170" y="675" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="30">Next.js • TypeScript • Supabase • PostgreSQL • Vercel • Twilio</text>
+  <text x="170" y="740" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Built by Tamer Khatib</text>
+  <text x="1430" y="740" text-anchor="end" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="30">tonysbooking.app</text>
+</svg>
